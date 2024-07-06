@@ -14,6 +14,10 @@ Casperian-svelte a Multipurpose website using svelte &amp; firebase
 11. [Project](https://casperian.vercel.app/projects) page
 12. Project details page
 13. [Admin](https://casperian.vercel.app/admin) page★★★
+14. [Contacts](https://casperian.vercel.app/contact) page
+15. [User](https://casperian.vercel.app/user) list page
+16. [Forum](https://casperian.vercel.app/forum) Page
+Where user can ask question, like  and answer
 ### One of our best key feature 
 
 Admin can easily create, rewrite, any data easily.Add any data in any scope. 
