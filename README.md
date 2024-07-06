@@ -28,3 +28,6 @@ This is a link to [Main Page](https://casperian.vercel.app).
 Here's an image:
 
 ![Casperian Logo](https://casperian.vercel.app/logo.svg)
+# For any information & query 
+[Contact](https://webuinet.vercel.app/contact)
+
