@@ -1,5 +1,5 @@
 # casperian-svelte
-Casperian-svelte a Multipurpose website using svelte &amp; firebase
+Casperian-svelte a Multipurpose website using svelte, firebase & tailwindcss
 # Feature & Page list 
 1. [Login](https://casperian.vercel.app/login) Page
 2. [Register](https://casperian.vercel.app/register) Page
